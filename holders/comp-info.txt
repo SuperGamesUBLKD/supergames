@@ -1,0 +1,1 @@
+This folders is where the game "holders" are stored. Essentially this is where all game files are stored. To open a game we recomend using the game file in the runners folder for the game you want to play.
